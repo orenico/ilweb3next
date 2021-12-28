@@ -12,7 +12,7 @@ function indexCards():ReactFragment{
       smart contracts and related technologies.`},
     {title:"This is NOT",
       text:`This is NOT a group relating to crypto investment or NFT/Token speculation - 
-      it is about the underlying techon0logy and what it can enable.`},
+      it is about the underlying technology and what it can enable.`},
     {title:"Audience",
       text:`The group is intended for developers and architects 
       working on web3 decentralized projects both frontend and backend 
